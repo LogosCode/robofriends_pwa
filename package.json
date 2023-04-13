@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/LogosCode/robofriends_pwa",
+  "homepage":"https://logoscode.github.io/robofriends_pwa/",
 
   "dependencies": {
     "gh-pages": "^1.1.0",
