@@ -5,6 +5,7 @@ metadata:
   description: A progressive web app for friends
   annotations:
     github.com/project-slug: LogosCode/robofriends_pwa
+    backstage.io/techdocs-ref: dir:.
   tags:
     -  react
     -  pwa
