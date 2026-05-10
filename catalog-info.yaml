@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: robofriends-pwa
   description: A progressive web app for friends
-  annotaitons:
+  annotations:
     github.com/project-slug: LogosCode/robofriends_pwa
   tags:
     -  react
