@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: robofriends-pwa
+  description: A progressive web app for friends
+  annotaitons:
+    github.com/project-slug: LogosCode/robofriends_pwa
+  tags:
+    -  react
+    -  pwa
+    -  javascript
+spec:
+  type: website
+  lifecycle: production
+  owner: logoscode
