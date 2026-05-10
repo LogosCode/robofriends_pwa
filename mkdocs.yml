@@ -1,0 +1,5 @@
+site_name: RoboFriends PWA
+nav:
+  - Overview: index.md
+plugins:
+  - techdocs-core
